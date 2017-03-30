@@ -1,0 +1,17 @@
+A brief description of your project’s purpose.
+Example: "A website for my local animal shelter. I tried to enhance their current site by implementing more responsive design and adding some jQuery functionality to create a Contact Me form."
+Try to think of what would be useful to a potential employer that is looking at your GitHub account without any context or background about Code Louisville or your project.
+Detailed steps on how to view the website. For most projects, this may just be "Run index.html" But some projects may go beyond these requirements and require specific tools or setup to run.
+If your project does, be sure to include very detailed steps so a reviewer or an employer can successfully run your project.
+If you choose to host your site on a live URL or GitHub Pages, it is fine to list that URL instead.
+
+Goal: Website for Chester's Chest nonprofit, an organization focused on informing pet owners about the safety, nutrition and efficacy of pet products and services.
+
+1) legislative advocacy for re-regulation of pet food
+2) news about pet food/product safety and recalls
+3) companies trying to do right by your pet and by other ethical standards - BUY THROUGH OUR WEBSITE AND XX% of profits go to help us continue our fight
+4) what you need to know
+
+$("#stayinformed a").click(function(){
+  //1.1 show the overlay form
+});
