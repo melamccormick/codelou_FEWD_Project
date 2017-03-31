@@ -15,7 +15,7 @@ var $signupform = $(
 
 //add form to overlay
 $overlay.append($signupform);
-//add overlay to page
+//add overlay to body
 $("body").append($overlay);
 
 //capture the click event on the link to the stay-informed signup form
