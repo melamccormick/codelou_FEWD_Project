@@ -30,5 +30,5 @@ $signupform.attr ("src", formLocation)
 
 //capture the click event on the submit button and show a thank you alert
 $("#submit").click(function(event){
-  alert('Thank you for visiting today! We will keep you in the loop!');
+  alert('Let us see if this is functional!');
 });
